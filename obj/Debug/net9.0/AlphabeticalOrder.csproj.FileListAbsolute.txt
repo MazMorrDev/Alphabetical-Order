@@ -1,0 +1,14 @@
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/bin/Debug/net9.0/AlphabeticalOrder
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/bin/Debug/net9.0/AlphabeticalOrder.deps.json
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/bin/Debug/net9.0/AlphabeticalOrder.runtimeconfig.json
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/bin/Debug/net9.0/AlphabeticalOrder.dll
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/bin/Debug/net9.0/AlphabeticalOrder.pdb
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/obj/Debug/net9.0/AlphabeticalOrder.GeneratedMSBuildEditorConfig.editorconfig
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/obj/Debug/net9.0/AlphabeticalOrder.AssemblyInfoInputs.cache
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/obj/Debug/net9.0/AlphabeticalOrder.AssemblyInfo.cs
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/obj/Debug/net9.0/AlphabeticalOrder.csproj.CoreCompileInputs.cache
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/obj/Debug/net9.0/AlphabeticalOrder.dll
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/obj/Debug/net9.0/refint/AlphabeticalOrder.dll
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/obj/Debug/net9.0/AlphabeticalOrder.pdb
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/obj/Debug/net9.0/AlphabeticalOrder.genruntimeconfig.cache
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/obj/Debug/net9.0/ref/AlphabeticalOrder.dll
