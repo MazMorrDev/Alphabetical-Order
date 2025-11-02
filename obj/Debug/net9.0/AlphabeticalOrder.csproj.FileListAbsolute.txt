@@ -12,3 +12,4 @@
 /home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/obj/Debug/net9.0/AlphabeticalOrder.pdb
 /home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/obj/Debug/net9.0/AlphabeticalOrder.genruntimeconfig.cache
 /home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/obj/Debug/net9.0/ref/AlphabeticalOrder.dll
+/home/mazmorrdev/Documentos/Proyectos/C#/AlphabeticalOrder/obj/Debug/net9.0/AlphabeticalOrder.sourcelink.json
